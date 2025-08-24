@@ -1,3 +1,17 @@
-![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
-This repository is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-Itch.io link of game: https://caspianfypex.itch.io/onekingworld/
+SKULL HUNTER
+
+**Author:** Sinan Tahirov
+
+**Play on Itch.io**: https://caspianfypex.itch.io/onekingworld
+
+This game was developed in 2022 and features a variety of gameplay mechanics:
+
+- Capturing New Territories
+- Improving Civilization
+- Managing Army 
+- Additional gameplay elements to enhance the experience  
+
+All scripts are available for review and can be used or adapted in your own projects **only in accordance with the terms of the license** provided.
+
+**License:** This project is licensed under the [MIT License](LICENSE).
+
